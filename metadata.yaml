@@ -1,0 +1,30 @@
+_repo: Musa-Cerula_30920
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gil, Augusto
+    aliases:
+    - Ferreira Gil, Augusto Cesar
+    - Gil, Augusto César Ferreira
+    birthdate: 1873
+    deathdate: 1929
+    gutenberg_agent_id: '7723'
+    url: http://www.gutenberg.org/2009/agents/7723
+    wikipedia: http://pt.wikipedia.org/wiki/Augusto_Gil
+description: ''
+gutenberg_issued: '2010-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30920'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: Musa Cerula
+url: http://www.gutenberg.org/ebooks/30920
